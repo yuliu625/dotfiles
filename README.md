@@ -1,2 +1,2 @@
-# Yu's Dofiles
+# Yu's Dotfiles
 
