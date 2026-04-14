@@ -1,0 +1,18 @@
+# ignore all
+*
+
+# allow some configuration files
+!.gitignore
+!.bashrc
+!.zshrc
+!.gitconfig
+!.tmux.conf
+!.yu_aliases
+
+
+# allow some directories
+
+
+# disable some secret files and directories
+.ssh/
+
