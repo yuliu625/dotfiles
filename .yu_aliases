@@ -1,0 +1,7 @@
+# yu's alias
+
+alias list='ls'
+alias copy='cp'
+alias move='mv'
+alias search='grep'
+
